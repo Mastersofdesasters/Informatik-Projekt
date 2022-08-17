@@ -3,7 +3,7 @@
 ## "Projektname" by Mia und Charlotte
 
 ### Inhalt
-[_Projekt_](#pro)
+[_Projekt_](#pro)<br>
 [_Wochenblog_](#blog)
 
 ### Projekt <a name="pro"></a> 
