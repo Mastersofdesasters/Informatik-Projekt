@@ -3,7 +3,6 @@
 ## "Projektname" by Mia und Charlotte
 
 ### Inhalt
-
 [_Projekt_](#pro)
 [_Wochenblog_](#blog)
 
