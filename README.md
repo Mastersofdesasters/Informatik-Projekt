@@ -5,7 +5,6 @@
 ### Inhalt
 
 [_Projekt_](#pro)
-
 [_Wochenblog_](#blog)
 
 ### Projekt <a name="pro"></a> 
