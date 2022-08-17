@@ -1,11 +1,11 @@
 # Informatik-Projekt
 
 ## "Projektname" by Mia und Charlotte
-asad
+
 ### Inhalt
 
-#### [_Projekt_](#pro)
-#### [_Wochenblog_](#blog)
+[_Projekt_](#pro)
+[_Wochenblog_](#blog)
 
 ### Projekt <a name="pro"></a> 
 
