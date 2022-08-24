@@ -1,6 +1,6 @@
 # Informatik-Projekt
 
-## "Projektname" by Mia und Charlotte
+## "SCHNAPPI" by Mia und Charlotte
 
 ### Inhalt
 [_Projekt_](#pro)<br> 
