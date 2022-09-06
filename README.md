@@ -26,3 +26,5 @@ Hier einmal den Baum und seine Befehle:
 Und hier Schnappis verbesserte Befehle:
 ![Screenshot (5)](https://user-images.githubusercontent.com/111355300/187618129-c338cb90-747e-4338-bcaf-dac4b8b8d433.png)
 
+06.09.2022: Heute haben wir prociert, mit Herrn Buhls Hilfe, Schnappi den Befehl zu geben, dass er von selbst fällt, sobald er nicht mehr den Baumstamm berührt. Dies ist ein relativ komplexer Code, an dem wir weiterarbeiten müssen. Im Moment müssen wir die Leertaste drücken oder die grüne Flagge, dait er fällt, das soll später automatisch geschehen. Leider hat es noch nicht ganz geklappt und wir müssen uns noch weiter auseinandersetzten. Hier sehen Sie unseren Versuch:
+![Screenshot (6)](https://user-images.githubusercontent.com/111355300/188618767-0c85e5f8-1d3c-43a4-8c02-f5c75f7f58c5.png)
