@@ -26,5 +26,9 @@ Hier einmal den Baum und seine Befehle:
 Und hier Schnappis verbesserte Befehle:
 ![Screenshot (5)](https://user-images.githubusercontent.com/111355300/187618129-c338cb90-747e-4338-bcaf-dac4b8b8d433.png)
 
-06.09.2022: Heute haben wir prociert, mit Herrn Buhls Hilfe, Schnappi den Befehl zu geben, dass er von selbst fällt, sobald er nicht mehr den Baumstamm berührt. Dies ist ein relativ komplexer Code, an dem wir weiterarbeiten müssen. Im Moment müssen wir die Leertaste drücken oder die grüne Flagge, dait er fällt, das soll später automatisch geschehen. Leider hat es noch nicht ganz geklappt und wir müssen uns noch weiter auseinandersetzten. Hier sehen Sie unseren Versuch:
+06.09.2022: Heute haben wir probiert, mit Herrn Buhls Hilfe, Schnappi den Befehl zu geben, dass er von selbst fällt, sobald er nicht mehr den Baumstamm berührt. Dies ist ein relativ komplexer Code, an dem wir weiterarbeiten müssen. Im Moment müssen wir die Leertaste oder die grüne Flagge drücken, damit er fällt, das soll später automatisch geschehen. Leider hat es noch nicht ganz geklappt und wir müssen uns noch weiter damit auseinandersetzen. Hier sehen Sie unseren Versuch:
 ![Screenshot (6)](https://user-images.githubusercontent.com/111355300/188618767-0c85e5f8-1d3c-43a4-8c02-f5c75f7f58c5.png)
+
+07.09.2022: Heute war Mia nicht da und ich musste alleine arbeiten. Im Anschlus an gestern habe ich npchmal versucht, einen Befehl zu erstellen, mit dem Schnappi von selbst fällt, sobald er keinen der Baumstämme mehr berührt. Viel weiter bin ich dabei allerdings nicht gekommen - zwar bewegt sich Schnappi an die richtige Position, aber eben noch nicht von selbst. Auch eine [Anleitung](https://entwickler.de/javascript/bau-deine-eigenen-blocke), die ich mir durchgelesen habe, hat nicht wirklich weitergeholfen. Um wenigstens etwas verändert zu haben, habe ich noch ein paar Baumstämme und die Plattform, auf der Schnappi am Ende des Spiels landen soll, zur Stage hinzugefügt. Im Screenshot ist das Ergebnis zu sehen:
+![Screenshot (7)](https://user-images.githubusercontent.com/111355300/188815034-e9a27593-f4cc-4bac-8117-4023d071ddd7.png)
+
