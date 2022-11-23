@@ -3,7 +3,9 @@
 ## "SCHNAPPI" by Mia und Charlotte
 
 ### Inhalt
-[Projektseite](https://github.com/Mastersofdesasters/Projektseite/edit/main/README.md)
+[_Projektseite_](https://github.com/Mastersofdesasters/Projektseite/edit/main/README.md)
+
+
 [_Wochenblog_](#blog)
 
 
