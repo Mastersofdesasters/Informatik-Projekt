@@ -6,7 +6,7 @@
  
 [_Wochenblog_](#blog)
 
-### Projekt <a name="pro"></a> 
+
 
 ### Wochenblog <a name="blog"></a> 
 16.08.22: Heute hatten wir das erste Mal Informatik. Wir haben über die Projekte erfahren und uns mit einigen Projekten von ehemaligen Schülern vertraut gemacht, das war sehr faszinierend. Danach haben wir uns schon selbst an den Computer gesetzt und haben uns auf [Isurf](https://isurfstormarn.de/iserv/file/-/Groups/kurs.informatik.12bfgcd/Github_Wege_durch_Informatik.txt?show=true) die Auswahl an möglichen Projektarten angeschaut.
