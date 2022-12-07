@@ -54,3 +54,7 @@ Und hier Schnappis verbesserte Befehle:
 16.11.2022: Heute sind wir wieder ein Stückchen weiter gekommen und haben an unseren Befehlen und unserer Stage gearbeitet: Zum einen haben wir 
 den Befehl, den Schnappi bei der Steuerung "Wenn Taste: Pfeil nach oben gedrückt" ausführt, um "Ändere x um 30" ergänzt. So springt Schnappi nun, wenn die "Taste Pfeil nach oben" gedrückt wird, nicht mehr nur nach oben, sondern auch nach vorn / nach rechts. So soll es dem Spieler einfacher gemacht werden. die einzelne Blöcke / Plattformen zu erreichen. Da wir Schnappi aus einem Bild aus dem Internet ausgeschnitten hatten und uns das noch nicht allzu gut gelungen war, waren um ihn herum noch so weiße Punkte, die immer vor ihm die Plattform / Blöcke berührt haben, sodass er schon aufgehört hat zu fallen, bevor sein erkennbarer Körper auf der Plattform landet. Die haben wir dann noch bearbeitet, damit er auch wirklich erst aufhört zu fallen, wenn er die Plattform berührt. Hier ein Screenshot
 ![Screenshot (15)](https://user-images.githubusercontent.com/111355300/203491383-650885ca-fb84-40c7-ac26-926b84b95045.png)
+
+22.11.2022: Heute haben wir Englisch Vorabitur geschrieben, weswegen kein Informatik stattfand.
+
+23.11.2022
