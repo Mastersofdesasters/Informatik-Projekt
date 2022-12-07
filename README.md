@@ -57,4 +57,4 @@ den Befehl, den Schnappi bei der Steuerung "Wenn Taste: Pfeil nach oben gedrück
 
 22.11.2022: Heute haben wir Englisch Vorabitur geschrieben, weswegen kein Informatik stattfand.
 
-23.11.2022
+23.11.2022: Heute haben wir uns weniger unserem Spiel und Schnappi gewidmet, sondern begonnen,
