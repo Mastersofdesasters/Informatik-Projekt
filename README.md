@@ -57,4 +57,16 @@ den Befehl, den Schnappi bei der Steuerung "Wenn Taste: Pfeil nach oben gedrück
 
 22.11.2022: Heute haben wir Englisch Vorabitur geschrieben, weswegen kein Informatik stattfand.
 
-23.11.2022: Heute haben wir uns weniger unserem Spiel und Schnappi gewidmet, sondern begonnen,
+23.11.2022: Heute haben wir uns weniger unserem Spiel und Schnappi gewidmet, sondern begonnen, unsere Projektseite zu erstellen. Hierbei haben wir uns an anderen Projekten orientiert und ein neues ,,README" erstellt. Danach haben wir dieses mit Hilfe von Markdown die Projektseite unterteilt und gestaltet in: Spielkonzept, Programm, Code und einem Link zum Spiel. Danach haben wir uns im Internet ein wenig über das Programm Snap! informiert und angefangen unser Spielkonzept zu erklären.
+
+29.11.2022: Heute ist Informatik ausgefallen
+
+30.11.2022: Heute fiel Informatik abermals aus.
+
+06.12.2022: Heute hatten wir ein großes Problem, da unser Projekt nicht richtig gespeichert hatte und wir zuerst keinen Zugriff hatten. Wir haben uns Hilfe von Herrn Buhl geholt und zusammen haben wir es geschafft, auf das Projekt zuzugreifen. Leider hat dies viel Zeit gekotet und uns blieb nur noch wenig Zeit zum Arbeiten. Dennoch haben wir weiter an der Projektseite gearbeitet.
+
+07.12.2022: da der Tag der Abgabe näher rückt, wollten wir uns heute nochmal unser Spiel vornehmen. Wir haben uns mit der Levelauswahl, bzw. mit Leveln im Allgemeinen auseinader gesetzt und neue Level erstellt. Dazu haben wir erstmal die Sprites für die Level erstellt und bearbeitet, anschließend haben wir größtenteil im Script der Stage mit Hilfe der Befehle ,,Broadcast" / ,,When I receive" gearbeitet. wenn der Spieler ein Level auswählt, erhalten nun alle erforderlichen Sprites mit der Funktion ,,Broadcast..."/ ,,When I receive..." den Befehl, zu erscheinen. Alle Sprites die man nun nicht braucht, erhalten den Befehl ,,to hide". Vom Startbildschirm gelangt man nun also in die Levelauswahl und kann ein beliebiges Level auswählen, welches dann erscheint.
+
+13.12.2022: Heute ist der vorletzte Arbeitstag und wir wollten weiter an der Projektseite arbeiten, doch leider machte unser Laptop uns einen STrich durch die Rechnung und hängte sich auf. So konnten wir zuerst nicht weiterarbeiten und unser bisheriges Erabeitetes wurde gelöscht :( Bid dies wieder funktionierte, war die Stunde fast zu Ende, trotzdessen haben wir nochmal ein bisschen an der Erklärung unserer Codes gearbeitet.
+
+14.12.2022: Heute ist der finale Tag. Deshalb haben wir uns zur Aufgabe gemacht, den Wochenblog und die Projektseite fertigzustellen. ALso haben wir zunächst unsere Codes vollständig erklärt und Screenshots der Codes einefügt. Als wir damit zufrieden waren, haben wir uns dem Wochenblog gewidmet und diesen vervollständig an den Tagen, wo wir vorher keine Zeit hatten. Wir sind glücklich, das Projekt fertiggestellt zu haben und wenn wir die letzten Wochen revue passieren lassen, können wir sagen, dass wir viel dazu gelernzt haben im Breich der Informatik und des Programmierens.
